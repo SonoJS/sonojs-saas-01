@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 32" fill="none">
+  <rect x="0" y="4" width="24" height="24" rx="6" fill="#C6FF3D"/>
+  <path d="M7 12h10v2.2H12.2V20H9.8v-5.8H7V12z" fill="#0B0F14"/>
+  <text x="32" y="22.5" font-family="system-ui,Segoe UI,sans-serif" font-size="18" font-weight="700" letter-spacing="-0.04em" fill="#0B0F14">Glyph</text>
+</svg>
